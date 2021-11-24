@@ -1,1 +1,1 @@
-# DjangoHelloWorld
+[範例說明](https://blog.darkthread.net/blog/my-django-hello-world)
